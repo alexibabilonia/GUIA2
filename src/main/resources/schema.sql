@@ -30,4 +30,3 @@ VALUES (
     'ADMIN',
     'ACTIVE'
 );
-
